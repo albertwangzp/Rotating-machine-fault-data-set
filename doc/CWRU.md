@@ -5,7 +5,7 @@
 使用电火花加工（EDM）为电机轴承提供故障。在内滚道，滚动元件（即滚珠）和外滚道处分别引入直径0.007英寸至0.040英寸直径的故障。将故障轴承重新安装到测试电机中，并记录0至3马力（电机速度为1797至1720 RPM）的电机负载的振动数据。
 
 
-* 数据下载连接(https://csegroups.case.edu/bearingdatacenter/pages/welcome-case-western-reserve-university-bearing-data-center-website)
+* 数据下载连接(https://engineering.case.edu/bearingdatacenter/download-data-file)
 CWRU数据集是使用最为广泛的，文献较多。不一一举例。其中University of New South Wales 的Wade A. Smith在2015年进行了比较全面的总结和对比。比较客观的综述和分析了使用数据进行诊断和分析研究的情况。官方网站提供的是.mat格式的数据，MATLAB直接使用比较方便。
 * Github上有人分享了在python中自动下载和使用的方法。https://github.com/Litchiware/cwru
 * R语言中使用的方法：https://github.com/coldfir3/bearing_fault_analysis
